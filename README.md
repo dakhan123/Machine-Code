@@ -1,11 +1,11 @@
 This Project is build using react
 
 ## To run the json server
-1- go to json-server folder
-2- open terminal there
-3- install json-server using npm i -g json-server
-3- run json-server as json-server --watch db.json -d 2000 -p 3001
-4- search http://localhost:3001/ in the browser, if server is server is running it should show the application
+1- go to json-server folder. <br />
+2- open terminal there <br />
+3- install json-server using npm i -g json-server <br />
+3- run json-server as json-server --watch db.json -d 2000 -p 3001, server start at port 3001 <br />
+4- search http://localhost:3001/ in the browser, if server is server is running it should show the application <br />
 
 ### Remark
 code is build using webpack and it is copied in json-server/public 
