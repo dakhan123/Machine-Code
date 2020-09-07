@@ -1,6 +1,16 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Project is build using react
 
-## Available Scripts
+## To run the json server
+1- go to json-server folder
+2- open terminal there
+3- install json-server using npm i -g json-server
+3- run json-server as json-server --watch db.json -d 2000 -p 3001
+4- search http://localhost:3001/ in the browser, if server is server is running it should show the application
+
+### Remark
+code is build using webpack and it is copied in json-server/public 
+
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -66,3 +76,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
